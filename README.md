@@ -26,21 +26,6 @@ Automated Remote Aquaponic Project
 SDR RPi Monitor
 ```
 
-### 
-
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
-
 ## Recommended Technology Stacks, Frameworks & Cool Things
 
 * [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
